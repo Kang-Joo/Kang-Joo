@@ -14,8 +14,8 @@
 ## Projects
 | Project | Type | Period |
 |:---------|:------|:---------|
-| [hipster](https://github.com/kangjoo2002/hipster) | Personal Project | 2026.02 ~ Present |
-| [sns](https://github.com/kangjoo2002/sns) | Personal Project | 2024.12 ~ Present |
+| [hipster](https://github.com/kangjoo2002/hipster) | Personal | 2026.02 ~ Present |
+| [sns](https://github.com/kangjoo2002/sns) | Personal | 2024.12 ~ Present |
 
 <br />
 
