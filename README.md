@@ -4,15 +4,10 @@
 
 <br />
 
-## Tech Stack
-| Category | Stack |
-|:---------|:------|
-| Language | Java · JavaScript · TypeScript |
-| Backend | Spring Boot · JPA · NestJS · Express |
-| Database | MySQL · Redis |
-| Messaging | RabbitMQ |
-| Search | Elasticsearch |
-| Infrastructure | Docker · AWS |
+## Portfolio
+| Portfolio | Link |
+|:----------|:-----|
+| Backend Portfolio | [kangjoo2002.github.io](https://kangjoo2002.github.io/) |
 
 <br />
 
