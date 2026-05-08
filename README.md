@@ -15,6 +15,7 @@
 | Project | Type | Period |
 |:---------|:------|:---------|
 | [marketplace](https://github.com/kangjoo2002/marketplace) | Personal | 2026.04 ~ Present |
+| [hipster](https://github.com/kangjoo2002/hipster) | Personal | 2026.02 ~ Present |
 
 <br />
 
