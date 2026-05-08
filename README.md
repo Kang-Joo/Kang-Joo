@@ -4,13 +4,6 @@
 
 <br />
 
-## Portfolio
-| Portfolio | Link |
-|:----------|:-----|
-| Backend Portfolio | [kangjoo2002.github.io](https://kangjoo2002.github.io/) |
-
-<br />
-
 ## Work Experience
 | Organization | Position | Period |
 |:------------|:---------|:---------|
@@ -21,8 +14,7 @@
 ## Projects
 | Project | Type | Period |
 |:---------|:------|:---------|
-| [hipster](https://github.com/kangjoo2002/hipster) | Personal | 2026.02 ~ Present |
-| [sns](https://github.com/kangjoo2002/sns) | Personal | 2024.12 ~ Present |
+| [marketplace](https://github.com/kangjoo2002/marketplace) | Personal | 2026.04 ~ Present |
 
 <br />
 
